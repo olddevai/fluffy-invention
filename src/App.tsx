@@ -1,6 +1,6 @@
 import { Scene } from './components/Scene';
-import { Controls } from './components/UI/Controls';
-import { InfoPanel } from './components/UI/InfoPanel';
+import { Controls } from './components/ui/Controls';
+import { InfoPanel } from './components/ui/InfoPanel';
 
 function App() {
   return (
