@@ -17,7 +17,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Hydrogen', 'Helium'],
     composition: ['Hydrogen (74.9%)', 'Helium (23.8%)', 'Metals (1.3%)'],
-    textureUrl: 'https://images.unsplash.com/photo-1532760270536-ad2626f2d7c1',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_sun.jpg',
     description: 'The Sun is the star at the center of our Solar System.',
     notableFeatures: ['Solar flares', 'Sunspots', 'Corona']
   },
@@ -37,7 +37,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Oxygen', 'Sodium', 'Hydrogen', 'Helium'],
     composition: ['Iron', 'Silicon', 'Magnesium'],
-    textureUrl: 'https://images.unsplash.com/photo-1592941187321-95e7999f0b63',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_mercury.jpg',
     description: 'Mercury is the smallest and innermost planet in the Solar System.',
     notableFeatures: ['Large iron core', 'Extreme temperature variations']
   },
@@ -57,7 +57,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Carbon dioxide', 'Nitrogen'],
     composition: ['Iron', 'Oxygen', 'Silicon'],
-    textureUrl: 'https://images.unsplash.com/photo-1575302920794-27d32de7267e',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_venus_surface.jpg',
     description: 'Venus is the second planet from the Sun and has a thick, toxic atmosphere.',
     notableFeatures: ['Runaway greenhouse effect', 'Volcanic plains']
   },
@@ -77,7 +77,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Nitrogen', 'Oxygen', 'Argon'],
     composition: ['Iron', 'Oxygen', 'Silicon', 'Magnesium'],
-    textureUrl: 'https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_earth_daymap.jpg',
     description: 'Earth is the third planet from the Sun and the only astronomical object known to harbor life.',
     notableFeatures: ['Atmosphere', 'Liquid water', 'Magnetic field']
   },
@@ -97,7 +97,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Carbon dioxide', 'Nitrogen', 'Argon'],
     composition: ['Iron oxide', 'Silicon', 'Magnesium'],
-    textureUrl: 'https://images.unsplash.com/photo-1528569937393-e5b719b0a333',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_mars.jpg',
     description: 'Mars is the fourth planet from the Sun, known as the Red Planet.',
     notableFeatures: ['Olympus Mons', 'Valles Marineris', 'Polar ice caps']
   },
@@ -117,7 +117,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Hydrogen', 'Helium'],
     composition: ['Hydrogen', 'Helium', 'Ammonia'],
-    textureUrl: 'https://images.unsplash.com/photo-1589144616413-0dde55c5dc44',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_jupiter.jpg',
     description: 'Jupiter is the largest planet in the Solar System and is known for its Great Red Spot.',
     notableFeatures: ['Great Red Spot', 'Many moons', 'Strong magnetic field']
   },
@@ -137,7 +137,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Hydrogen', 'Helium'],
     composition: ['Hydrogen', 'Helium', 'Methane'],
-    textureUrl: 'https://images.unsplash.com/photo-1583749503028-43f2017ba279',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_saturn.jpg',
     description: 'Saturn is the second-largest planet in the Solar System, famous for its ring system.',
     notableFeatures: ['Ring system', 'Many moons', 'Low density']
   },
@@ -157,7 +157,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Hydrogen', 'Helium', 'Methane'],
     composition: ['Ices', 'Hydrogen', 'Helium'],
-    textureUrl: 'https://images.unsplash.com/photo-1605459656498-f754fd3ed4e5',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_uranus.jpg',
     description: 'Uranus is an ice giant with a unique sideways rotation.',
     notableFeatures: ['Sideways rotation', 'Methane-rich atmosphere']
   },
@@ -177,7 +177,7 @@ export const celestialObjects: CelestialObject[] = [
     },
     atmosphere: ['Hydrogen', 'Helium', 'Methane'],
     composition: ['Ices', 'Hydrogen', 'Helium'],
-    textureUrl: 'https://images.unsplash.com/photo-1621052604224-447cf7ad2a5a',
+    textureUrl: 'https://solar-system-ui.netlify.app/2k_neptune.jpg',
     description: 'Neptune is the eighth planet from the Sun and is known for its deep blue color.',
     notableFeatures: ['Great Dark Spot', 'Strong winds', 'Faint ring system']
   }
