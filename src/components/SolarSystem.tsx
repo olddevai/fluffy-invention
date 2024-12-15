@@ -2,8 +2,8 @@ import { useFrame } from '@react-three/fiber';
 import { useRef } from 'react';
 import { Group } from 'three';
 import { celestialObjects } from '../data/solarSystem';
-import { CelestialObject } from '../celestial/CelestialObject';
-import { Orbits } from './Orbits';
+import { CelestialObject } from './celestial/CelestialObject';
+import { Orbits } from './celestial/Orbits';
 import { useStore } from '../store/useStore';
 
 interface Props {
